@@ -1,0 +1,600 @@
+2024-05-26 20:18:13,271 - build_posterior_wrapper took 0.048952 seconds
+2024-05-26 20:18:13,271 - TPE using 0 trials
+2024-05-26 20:18:24,923 - Params: {'max_depth': 36, 'max_features': 0.5144172307413716, 'min_samples_leaf': 10, 'min_samples_split': 7, 'n_estimators': 370}, RMSE: 0.696183302123347
+2024-05-26 20:18:24,925 - build_posterior_wrapper took 0.000913 seconds
+2024-05-26 20:18:24,925 - TPE using 1/1 trials with best loss 0.696183
+2024-05-26 20:18:26,551 - Params: {'max_depth': 37, 'max_features': 0.23590744744288752, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 90}, RMSE: 0.6637872098797345
+2024-05-26 20:18:26,553 - build_posterior_wrapper took 0.000929 seconds
+2024-05-26 20:18:26,553 - TPE using 2/2 trials with best loss 0.663787
+2024-05-26 20:18:30,341 - Params: {'max_depth': 9, 'max_features': 0.31088918595428916, 'min_samples_leaf': 10, 'min_samples_split': 3, 'n_estimators': 210}, RMSE: 0.6982441217791663
+2024-05-26 20:18:30,343 - build_posterior_wrapper took 0.000907 seconds
+2024-05-26 20:18:30,343 - TPE using 3/3 trials with best loss 0.663787
+2024-05-26 20:18:32,451 - Params: {'max_depth': 33, 'max_features': 0.3877872871089342, 'min_samples_leaf': 3, 'min_samples_split': 10, 'n_estimators': 70}, RMSE: 0.6588700106904077
+2024-05-26 20:18:32,452 - build_posterior_wrapper took 0.000930 seconds
+2024-05-26 20:18:32,452 - TPE using 4/4 trials with best loss 0.658870
+2024-05-26 20:18:45,622 - Params: {'max_depth': 15, 'max_features': 0.44226380401124943, 'min_samples_leaf': 8, 'min_samples_split': 8, 'n_estimators': 460}, RMSE: 0.6851874657421178
+2024-05-26 20:18:45,624 - build_posterior_wrapper took 0.000912 seconds
+2024-05-26 20:18:45,624 - TPE using 5/5 trials with best loss 0.658870
+2024-05-26 20:19:00,086 - Params: {'max_depth': 42, 'max_features': 0.6271369948207596, 'min_samples_leaf': 9, 'min_samples_split': 6, 'n_estimators': 370}, RMSE: 0.6968197981571358
+2024-05-26 20:19:00,088 - build_posterior_wrapper took 0.000921 seconds
+2024-05-26 20:19:00,088 - TPE using 6/6 trials with best loss 0.658870
+2024-05-26 20:19:05,626 - Params: {'max_depth': 10, 'max_features': 0.19854518027132867, 'min_samples_leaf': 5, 'min_samples_split': 7, 'n_estimators': 410}, RMSE: 0.6644268864625862
+2024-05-26 20:19:05,628 - build_posterior_wrapper took 0.000953 seconds
+2024-05-26 20:19:05,628 - TPE using 7/7 trials with best loss 0.658870
+2024-05-26 20:19:10,330 - Params: {'max_depth': 37, 'max_features': 0.18106884646228477, 'min_samples_leaf': 9, 'min_samples_split': 7, 'n_estimators': 400}, RMSE: 0.6822745889994705
+2024-05-26 20:19:10,332 - build_posterior_wrapper took 0.000955 seconds
+2024-05-26 20:19:10,332 - TPE using 8/8 trials with best loss 0.658870
+2024-05-26 20:19:19,170 - Params: {'max_depth': 17, 'max_features': 0.22872792267245104, 'min_samples_leaf': 2, 'min_samples_split': 9, 'n_estimators': 470}, RMSE: 0.6432959794795614
+2024-05-26 20:19:19,172 - build_posterior_wrapper took 0.000957 seconds
+2024-05-26 20:19:19,172 - TPE using 9/9 trials with best loss 0.643296
+2024-05-26 20:19:48,018 - Params: {'max_depth': 49, 'max_features': 0.7710038913572039, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 390}, RMSE: 0.6608586802899047
+2024-05-26 20:19:48,020 - build_posterior_wrapper took 0.000954 seconds
+2024-05-26 20:19:48,020 - TPE using 10/10 trials with best loss 0.643296
+2024-05-26 20:19:54,221 - Params: {'max_depth': 13, 'max_features': 0.17872945018031233, 'min_samples_leaf': 5, 'min_samples_split': 9, 'n_estimators': 470}, RMSE: 0.6592786391363142
+2024-05-26 20:19:54,223 - build_posterior_wrapper took 0.000932 seconds
+2024-05-26 20:19:54,224 - TPE using 11/11 trials with best loss 0.643296
+2024-05-26 20:20:10,797 - Params: {'max_depth': 43, 'max_features': 0.5267583664243706, 'min_samples_leaf': 2, 'min_samples_split': 9, 'n_estimators': 390}, RMSE: 0.6485592176787852
+2024-05-26 20:20:10,799 - build_posterior_wrapper took 0.000904 seconds
+2024-05-26 20:20:10,799 - TPE using 12/12 trials with best loss 0.643296
+2024-05-26 20:20:35,829 - Params: {'max_depth': 10, 'max_features': 0.8914370206127048, 'min_samples_leaf': 3, 'min_samples_split': 10, 'n_estimators': 420}, RMSE: 0.683939825043526
+2024-05-26 20:20:35,831 - build_posterior_wrapper took 0.000940 seconds
+2024-05-26 20:20:35,831 - TPE using 13/13 trials with best loss 0.643296
+2024-05-26 20:20:46,209 - Params: {'max_depth': 14, 'max_features': 0.5850775046701445, 'min_samples_leaf': 4, 'min_samples_split': 9, 'n_estimators': 240}, RMSE: 0.6656877382792403
+2024-05-26 20:20:46,210 - build_posterior_wrapper took 0.000922 seconds
+2024-05-26 20:20:46,211 - TPE using 14/14 trials with best loss 0.643296
+2024-05-26 20:20:49,960 - Params: {'max_depth': 13, 'max_features': 0.4443963755742535, 'min_samples_leaf': 8, 'min_samples_split': 9, 'n_estimators': 130}, RMSE: 0.6780444637873618
+2024-05-26 20:20:49,962 - build_posterior_wrapper took 0.000929 seconds
+2024-05-26 20:20:49,962 - TPE using 15/15 trials with best loss 0.643296
+2024-05-26 20:20:56,304 - Params: {'max_depth': 12, 'max_features': 0.6292588990009048, 'min_samples_leaf': 8, 'min_samples_split': 5, 'n_estimators': 160}, RMSE: 0.689365190381269
+2024-05-26 20:20:56,306 - build_posterior_wrapper took 0.000937 seconds
+2024-05-26 20:20:56,306 - TPE using 16/16 trials with best loss 0.643296
+2024-05-26 20:21:11,796 - Params: {'max_depth': 25, 'max_features': 0.3789581177036777, 'min_samples_leaf': 1, 'min_samples_split': 6, 'n_estimators': 460}, RMSE: 0.642666831526737
+2024-05-26 20:21:11,798 - build_posterior_wrapper took 0.000923 seconds
+2024-05-26 20:21:11,798 - TPE using 17/17 trials with best loss 0.642667
+2024-05-26 20:21:13,305 - Params: {'max_depth': 19, 'max_features': 0.18116441318480442, 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 110}, RMSE: 0.6673514358103816
+2024-05-26 20:21:13,307 - build_posterior_wrapper took 0.000940 seconds
+2024-05-26 20:21:13,307 - TPE using 18/18 trials with best loss 0.642667
+2024-05-26 20:21:42,675 - Params: {'max_depth': 34, 'max_features': 0.9673501530862699, 'min_samples_leaf': 6, 'min_samples_split': 5, 'n_estimators': 440}, RMSE: 0.6851044729395384
+2024-05-26 20:21:42,677 - build_posterior_wrapper took 0.000936 seconds
+2024-05-26 20:21:42,677 - TPE using 19/19 trials with best loss 0.642667
+2024-05-26 20:22:04,641 - Params: {'max_depth': 12, 'max_features': 0.9155345639704262, 'min_samples_leaf': 9, 'min_samples_split': 4, 'n_estimators': 390}, RMSE: 0.704454821371493
+2024-05-26 20:22:04,643 - build_posterior_wrapper took 0.000916 seconds
+2024-05-26 20:22:04,643 - TPE using 20/20 trials with best loss 0.642667
+2024-05-26 20:22:15,001 - Params: {'max_depth': 24, 'max_features': 0.308535086743746, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 320}, RMSE: 0.6369185809279182
+2024-05-26 20:22:15,003 - build_posterior_wrapper took 0.000941 seconds
+2024-05-26 20:22:15,003 - TPE using 21/21 trials with best loss 0.636919
+2024-05-26 20:22:18,688 - Params: {'max_depth': 23, 'max_features': 0.10869470536963283, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}, RMSE: 0.6311089714760106
+2024-05-26 20:22:18,690 - build_posterior_wrapper took 0.000938 seconds
+2024-05-26 20:22:18,691 - TPE using 22/22 trials with best loss 0.631109
+2024-05-26 20:22:22,046 - Params: {'max_depth': 23, 'max_features': 0.10522983568998967, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 330}, RMSE: 0.6344658990981709
+2024-05-26 20:22:22,048 - build_posterior_wrapper took 0.000927 seconds
+2024-05-26 20:22:22,048 - TPE using 23/23 trials with best loss 0.631109
+2024-05-26 20:22:24,012 - Params: {'max_depth': 5, 'max_features': 0.1283176661023441, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 310}, RMSE: 0.6903419887051725
+2024-05-26 20:22:24,014 - build_posterior_wrapper took 0.000948 seconds
+2024-05-26 20:22:24,014 - TPE using 24/24 trials with best loss 0.631109
+2024-05-26 20:22:26,608 - Params: {'max_depth': 22, 'max_features': 0.10195628361432477, 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 290}, RMSE: 0.640058747916033
+2024-05-26 20:22:26,610 - build_posterior_wrapper took 0.000943 seconds
+2024-05-26 20:22:26,611 - TPE using 25/25 trials with best loss 0.631109
+2024-05-26 20:22:28,519 - Params: {'max_depth': 29, 'max_features': 0.10595150310144767, 'min_samples_leaf': 6, 'min_samples_split': 2, 'n_estimators': 240}, RMSE: 0.6683471189603005
+2024-05-26 20:22:28,521 - build_posterior_wrapper took 0.000928 seconds
+2024-05-26 20:22:28,521 - TPE using 26/26 trials with best loss 0.631109
+2024-05-26 20:22:51,126 - Params: {'max_depth': 21, 'max_features': 0.7592933222758252, 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 340}, RMSE: 0.6577417219210924
+2024-05-26 20:22:51,128 - build_posterior_wrapper took 0.000999 seconds
+2024-05-26 20:22:51,128 - TPE using 27/27 trials with best loss 0.631109
+2024-05-26 20:22:56,480 - Params: {'max_depth': 29, 'max_features': 0.2621328919909488, 'min_samples_leaf': 4, 'min_samples_split': 3, 'n_estimators': 260}, RMSE: 0.6617498865115388
+2024-05-26 20:22:56,482 - build_posterior_wrapper took 0.000919 seconds
+2024-05-26 20:22:56,482 - TPE using 28/28 trials with best loss 0.631109
+2024-05-26 20:23:03,636 - Params: {'max_depth': 27, 'max_features': 0.3225550972511818, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 210}, RMSE: 0.643483357512712
+2024-05-26 20:23:03,637 - build_posterior_wrapper took 0.000919 seconds
+2024-05-26 20:23:03,638 - TPE using 29/29 trials with best loss 0.631109
+2024-05-26 20:23:06,962 - Params: {'max_depth': 32, 'max_features': 0.11026079717014882, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 340}, RMSE: 0.6422935490090791
+2024-05-26 20:23:06,964 - build_posterior_wrapper took 0.000933 seconds
+2024-05-26 20:23:06,964 - TPE using 30/30 trials with best loss 0.631109
+2024-05-26 20:23:14,430 - Params: {'max_depth': 6, 'max_features': 0.7063737021034001, 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 200}, RMSE: 0.6933441481088063
+2024-05-26 20:23:14,432 - build_posterior_wrapper took 0.000931 seconds
+2024-05-26 20:23:14,432 - TPE using 31/31 trials with best loss 0.631109
+2024-05-26 20:23:21,735 - Params: {'max_depth': 18, 'max_features': 0.2697862545916487, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 280}, RMSE: 0.6408896513368718
+2024-05-26 20:23:21,737 - build_posterior_wrapper took 0.000926 seconds
+2024-05-26 20:23:21,737 - TPE using 32/32 trials with best loss 0.631109
+2024-05-26 20:23:31,867 - Params: {'max_depth': 38, 'max_features': 0.4322618156947092, 'min_samples_leaf': 7, 'min_samples_split': 2, 'n_estimators': 350}, RMSE: 0.6801310757930055
+2024-05-26 20:23:31,869 - build_posterior_wrapper took 0.000947 seconds
+2024-05-26 20:23:31,870 - TPE using 33/33 trials with best loss 0.631109
+2024-05-26 20:23:40,654 - Params: {'max_depth': 22, 'max_features': 0.3680058146494603, 'min_samples_leaf': 4, 'min_samples_split': 3, 'n_estimators': 310}, RMSE: 0.658172465123985
+2024-05-26 20:23:40,656 - build_posterior_wrapper took 0.000952 seconds
+2024-05-26 20:23:40,656 - TPE using 34/34 trials with best loss 0.631109
+2024-05-26 20:23:42,879 - Params: {'max_depth': 30, 'max_features': 0.13632979383843558, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 190}, RMSE: 0.6405516870638588
+2024-05-26 20:23:42,881 - build_posterior_wrapper took 0.000937 seconds
+2024-05-26 20:23:42,881 - TPE using 35/35 trials with best loss 0.631109
+2024-05-26 20:23:52,889 - Params: {'max_depth': 26, 'max_features': 0.5010858836513135, 'min_samples_leaf': 4, 'min_samples_split': 8, 'n_estimators': 260}, RMSE: 0.6667436733409079
+2024-05-26 20:23:52,891 - build_posterior_wrapper took 0.000932 seconds
+2024-05-26 20:23:52,891 - TPE using 36/36 trials with best loss 0.631109
+2024-05-26 20:24:02,563 - Params: {'max_depth': 16, 'max_features': 0.3165272422027178, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 360}, RMSE: 0.6455453759385883
+2024-05-26 20:24:02,565 - build_posterior_wrapper took 0.000932 seconds
+2024-05-26 20:24:02,566 - TPE using 37/37 trials with best loss 0.631109
+2024-05-26 20:24:04,472 - Params: {'max_depth': 42, 'max_features': 0.1583612597563097, 'min_samples_leaf': 7, 'min_samples_split': 4, 'n_estimators': 170}, RMSE: 0.6692718229482993
+2024-05-26 20:24:04,474 - build_posterior_wrapper took 0.000955 seconds
+2024-05-26 20:24:04,474 - TPE using 38/38 trials with best loss 0.631109
+2024-05-26 20:24:09,637 - Params: {'max_depth': 50, 'max_features': 0.2195706126175231, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 230}, RMSE: 0.6285959724823672
+2024-05-26 20:24:09,639 - build_posterior_wrapper took 0.000931 seconds
+2024-05-26 20:24:09,639 - TPE using 39/39 trials with best loss 0.628596
+2024-05-26 20:24:15,050 - Params: {'max_depth': 49, 'max_features': 0.23228170099775647, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 230}, RMSE: 0.6381360702306536
+2024-05-26 20:24:15,052 - build_posterior_wrapper took 0.000957 seconds
+2024-05-26 20:24:15,052 - TPE using 40/40 trials with best loss 0.628596
+2024-05-26 20:24:18,097 - Params: {'max_depth': 45, 'max_features': 0.4622685986697606, 'min_samples_leaf': 3, 'min_samples_split': 7, 'n_estimators': 80}, RMSE: 0.6603210478783708
+2024-05-26 20:24:18,099 - build_posterior_wrapper took 0.000961 seconds
+2024-05-26 20:24:18,100 - TPE using 41/41 trials with best loss 0.628596
+2024-05-26 20:24:24,869 - Params: {'max_depth': 40, 'max_features': 0.21397798701216628, 'min_samples_leaf': 10, 'min_samples_split': 3, 'n_estimators': 500}, RMSE: 0.6912134496947479
+2024-05-26 20:24:24,871 - build_posterior_wrapper took 0.000928 seconds
+2024-05-26 20:24:24,871 - TPE using 42/42 trials with best loss 0.628596
+2024-05-26 20:24:27,355 - Params: {'max_depth': 47, 'max_features': 0.5712339793100569, 'min_samples_leaf': 5, 'min_samples_split': 8, 'n_estimators': 60}, RMSE: 0.66784856497437
+2024-05-26 20:24:27,357 - build_posterior_wrapper took 0.001159 seconds
+2024-05-26 20:24:27,357 - TPE using 43/43 trials with best loss 0.628596
+2024-05-26 20:24:31,237 - Params: {'max_depth': 35, 'max_features': 0.40935695830451296, 'min_samples_leaf': 7, 'min_samples_split': 4, 'n_estimators': 140}, RMSE: 0.6753171509439766
+2024-05-26 20:24:31,238 - build_posterior_wrapper took 0.000934 seconds
+2024-05-26 20:24:31,239 - TPE using 44/44 trials with best loss 0.628596
+2024-05-26 20:24:44,392 - Params: {'max_depth': 32, 'max_features': 0.4935779869962893, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 290}, RMSE: 0.6450599552135486
+2024-05-26 20:24:44,394 - build_posterior_wrapper took 0.000945 seconds
+2024-05-26 20:24:44,394 - TPE using 45/45 trials with best loss 0.628596
+2024-05-26 20:24:50,865 - Params: {'max_depth': 38, 'max_features': 0.35765727505389017, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 220}, RMSE: 0.6497727536094253
+2024-05-26 20:24:50,867 - build_posterior_wrapper took 0.000944 seconds
+2024-05-26 20:24:50,867 - TPE using 46/46 trials with best loss 0.628596
+2024-05-26 20:24:59,311 - Params: {'max_depth': 19, 'max_features': 0.677547930283904, 'min_samples_leaf': 6, 'min_samples_split': 6, 'n_estimators': 180}, RMSE: 0.6838013680993679
+2024-05-26 20:24:59,313 - build_posterior_wrapper took 0.000955 seconds
+2024-05-26 20:24:59,313 - TPE using 47/47 trials with best loss 0.628596
+2024-05-26 20:25:26,738 - Params: {'max_depth': 20, 'max_features': 0.8385936050744034, 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 370}, RMSE: 0.6663847145195925
+2024-05-26 20:25:26,741 - build_posterior_wrapper took 0.001097 seconds
+2024-05-26 20:25:26,741 - TPE using 48/48 trials with best loss 0.628596
+2024-05-26 20:25:28,662 - Params: {'max_depth': 8, 'max_features': 0.2663652764749898, 'min_samples_leaf': 1, 'min_samples_split': 7, 'n_estimators': 110}, RMSE: 0.6694742438217338
+2024-05-26 20:25:28,665 - build_posterior_wrapper took 0.001247 seconds
+2024-05-26 20:25:28,665 - TPE using 49/49 trials with best loss 0.628596
+2024-05-26 20:25:30,823 - Params: {'max_depth': 40, 'max_features': 0.18996799048035487, 'min_samples_leaf': 4, 'min_samples_split': 4, 'n_estimators': 140}, RMSE: 0.655522873894826
+2024-05-26 20:25:30,825 - build_posterior_wrapper took 0.001265 seconds
+2024-05-26 20:25:30,825 - TPE using 50/50 trials with best loss 0.628596
+2024-05-26 20:25:36,121 - Params: {'max_depth': 50, 'max_features': 0.28352407274753755, 'min_samples_leaf': 5, 'min_samples_split': 2, 'n_estimators': 250}, RMSE: 0.6635170286312276
+2024-05-26 20:25:36,123 - build_posterior_wrapper took 0.001217 seconds
+2024-05-26 20:25:36,123 - TPE using 51/51 trials with best loss 0.628596
+2024-05-26 20:25:41,674 - Params: {'max_depth': 15, 'max_features': 0.14980850350185282, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 420}, RMSE: 0.6364332697665062
+2024-05-26 20:25:41,676 - build_posterior_wrapper took 0.001233 seconds
+2024-05-26 20:25:41,677 - TPE using 52/52 trials with best loss 0.628596
+2024-05-26 20:25:46,841 - Params: {'max_depth': 46, 'max_features': 0.5321411070881537, 'min_samples_leaf': 10, 'min_samples_split': 3, 'n_estimators': 160}, RMSE: 0.6980135963432927
+2024-05-26 20:25:46,844 - build_posterior_wrapper took 0.001243 seconds
+2024-05-26 20:25:46,844 - TPE using 53/53 trials with best loss 0.628596
+2024-05-26 20:26:01,815 - Params: {'max_depth': 25, 'max_features': 0.6240640922241614, 'min_samples_leaf': 3, 'min_samples_split': 7, 'n_estimators': 300}, RMSE: 0.6625919185184261
+2024-05-26 20:26:01,818 - build_posterior_wrapper took 0.001224 seconds
+2024-05-26 20:26:01,818 - TPE using 54/54 trials with best loss 0.628596
+2024-05-26 20:26:07,609 - Params: {'max_depth': 31, 'max_features': 0.3377633036669089, 'min_samples_leaf': 9, 'min_samples_split': 2, 'n_estimators': 270}, RMSE: 0.6821156061784835
+2024-05-26 20:26:07,611 - build_posterior_wrapper took 0.001234 seconds
+2024-05-26 20:26:07,611 - TPE using 55/55 trials with best loss 0.628596
+2024-05-26 20:26:20,600 - Params: {'max_depth': 36, 'max_features': 0.4021343747718964, 'min_samples_leaf': 8, 'min_samples_split': 8, 'n_estimators': 490}, RMSE: 0.6750664543449484
+2024-05-26 20:26:20,602 - build_posterior_wrapper took 0.001069 seconds
+2024-05-26 20:26:20,602 - TPE using 56/56 trials with best loss 0.628596
+2024-05-26 20:26:24,219 - Params: {'max_depth': 8, 'max_features': 0.24149412477233478, 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 220}, RMSE: 0.6619789931318878
+2024-05-26 20:26:24,222 - build_posterior_wrapper took 0.001138 seconds
+2024-05-26 20:26:24,222 - TPE using 57/57 trials with best loss 0.628596
+2024-05-26 20:26:31,594 - Params: {'max_depth': 27, 'max_features': 0.20973091176980735, 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 440}, RMSE: 0.6540035270061602
+2024-05-26 20:26:31,596 - build_posterior_wrapper took 0.001122 seconds
+2024-05-26 20:26:31,596 - TPE using 58/58 trials with best loss 0.628596
+2024-05-26 20:26:39,315 - Params: {'max_depth': 44, 'max_features': 0.9949314135240815, 'min_samples_leaf': 3, 'min_samples_split': 10, 'n_estimators': 100}, RMSE: 0.6830279019616035
+2024-05-26 20:26:39,317 - build_posterior_wrapper took 0.001259 seconds
+2024-05-26 20:26:39,318 - TPE using 59/59 trials with best loss 0.628596
+2024-05-26 20:26:45,719 - Params: {'max_depth': 10, 'max_features': 0.29739189518966885, 'min_samples_leaf': 5, 'min_samples_split': 3, 'n_estimators': 320}, RMSE: 0.6677010090028238
+2024-05-26 20:26:45,722 - build_posterior_wrapper took 0.000946 seconds
+2024-05-26 20:26:45,722 - TPE using 60/60 trials with best loss 0.628596
+2024-05-26 20:27:01,380 - Params: {'max_depth': 34, 'max_features': 0.4604380398764278, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 380}, RMSE: 0.6508773084080727
+2024-05-26 20:27:01,382 - build_posterior_wrapper took 0.000923 seconds
+2024-05-26 20:27:01,382 - TPE using 61/61 trials with best loss 0.628596
+2024-05-26 20:27:23,455 - Params: {'max_depth': 24, 'max_features': 0.7767242992326362, 'min_samples_leaf': 6, 'min_samples_split': 5, 'n_estimators': 410}, RMSE: 0.6834879557353687
+2024-05-26 20:27:23,457 - build_posterior_wrapper took 0.000921 seconds
+2024-05-26 20:27:23,458 - TPE using 62/62 trials with best loss 0.628596
+2024-05-26 20:27:27,187 - Params: {'max_depth': 28, 'max_features': 0.15683223870743046, 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 240}, RMSE: 0.6318320156160073
+2024-05-26 20:27:27,189 - build_posterior_wrapper took 0.000941 seconds
+2024-05-26 20:27:27,189 - TPE using 63/63 trials with best loss 0.628596
+2024-05-26 20:27:32,721 - Params: {'max_depth': 12, 'max_features': 0.34379928082652483, 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 200}, RMSE: 0.6515518488023277
+2024-05-26 20:27:32,723 - build_posterior_wrapper took 0.000943 seconds
+2024-05-26 20:27:32,723 - TPE using 64/64 trials with best loss 0.628596
+2024-05-26 20:27:36,039 - Params: {'max_depth': 40, 'max_features': 0.10185878458515446, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 280}, RMSE: 0.6189470790648768
+2024-05-26 20:27:36,041 - build_posterior_wrapper took 0.000967 seconds
+2024-05-26 20:27:36,041 - TPE using 65/65 trials with best loss 0.618947
+2024-05-26 20:27:39,398 - Params: {'max_depth': 48, 'max_features': 0.10233846483929047, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 280}, RMSE: 0.6352284493329763
+2024-05-26 20:27:39,400 - build_posterior_wrapper took 0.000992 seconds
+2024-05-26 20:27:39,400 - TPE using 66/66 trials with best loss 0.618947
+2024-05-26 20:27:45,133 - Params: {'max_depth': 43, 'max_features': 0.1762162687449449, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 350}, RMSE: 0.6392525737066256
+2024-05-26 20:27:45,135 - build_posterior_wrapper took 0.000936 seconds
+2024-05-26 20:27:45,135 - TPE using 67/67 trials with best loss 0.618947
+2024-05-26 20:27:49,717 - Params: {'max_depth': 40, 'max_features': 0.13548869795026708, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}, RMSE: 0.6251968142379665
+2024-05-26 20:27:49,719 - build_posterior_wrapper took 0.000950 seconds
+2024-05-26 20:27:49,719 - TPE using 68/68 trials with best loss 0.618947
+2024-05-26 20:27:57,683 - Params: {'max_depth': 41, 'max_features': 0.24865346458462811, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 320}, RMSE: 0.6333528034226279
+2024-05-26 20:27:57,685 - build_posterior_wrapper took 0.000934 seconds
+2024-05-26 20:27:57,686 - TPE using 69/69 trials with best loss 0.618947
+2024-05-26 20:28:00,829 - Params: {'max_depth': 39, 'max_features': 0.12661287230950163, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 260}, RMSE: 0.630263250383417
+2024-05-26 20:28:00,831 - build_posterior_wrapper took 0.000956 seconds
+2024-05-26 20:28:00,831 - TPE using 70/70 trials with best loss 0.618947
+2024-05-26 20:28:03,653 - Params: {'max_depth': 45, 'max_features': 0.20993086282759144, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 160}, RMSE: 0.6505459040660694
+2024-05-26 20:28:03,655 - build_posterior_wrapper took 0.000942 seconds
+2024-05-26 20:28:03,655 - TPE using 71/71 trials with best loss 0.618947
+2024-05-26 20:28:07,961 - Params: {'max_depth': 37, 'max_features': 0.18331966103953506, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 230}, RMSE: 0.6354470745561328
+2024-05-26 20:28:07,963 - build_posterior_wrapper took 0.000962 seconds
+2024-05-26 20:28:07,963 - TPE using 72/72 trials with best loss 0.618947
+2024-05-26 20:28:11,293 - Params: {'max_depth': 49, 'max_features': 0.13038575515826134, 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 270}, RMSE: 0.6421413811425847
+2024-05-26 20:28:11,295 - build_posterior_wrapper took 0.000960 seconds
+2024-05-26 20:28:11,295 - TPE using 73/73 trials with best loss 0.618947
+2024-05-26 20:28:24,570 - Params: {'max_depth': 47, 'max_features': 0.38712345764067757, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 330}, RMSE: 0.650528054703117
+2024-05-26 20:28:24,572 - build_posterior_wrapper took 0.000937 seconds
+2024-05-26 20:28:24,572 - TPE using 74/74 trials with best loss 0.618947
+2024-05-26 20:28:30,734 - Params: {'max_depth': 42, 'max_features': 0.2957994769025687, 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 250}, RMSE: 0.6513218513362117
+2024-05-26 20:28:30,736 - build_posterior_wrapper took 0.000958 seconds
+2024-05-26 20:28:30,736 - TPE using 75/75 trials with best loss 0.618947
+2024-05-26 20:28:36,084 - Params: {'max_depth': 33, 'max_features': 0.2336222324759743, 'min_samples_leaf': 4, 'min_samples_split': 3, 'n_estimators': 290}, RMSE: 0.6474049806041503
+2024-05-26 20:28:36,086 - build_posterior_wrapper took 0.000938 seconds
+2024-05-26 20:28:36,086 - TPE using 76/76 trials with best loss 0.618947
+2024-05-26 20:28:38,895 - Params: {'max_depth': 44, 'max_features': 0.15783820786385327, 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 180}, RMSE: 0.6330753297285031
+2024-05-26 20:28:38,897 - build_posterior_wrapper took 0.000962 seconds
+2024-05-26 20:28:38,897 - TPE using 77/77 trials with best loss 0.618947
+2024-05-26 20:28:52,654 - Params: {'max_depth': 36, 'max_features': 0.42904619701409796, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 360}, RMSE: 0.6522909523613893
+2024-05-26 20:28:52,656 - build_posterior_wrapper took 0.000977 seconds
+2024-05-26 20:28:52,656 - TPE using 78/78 trials with best loss 0.618947
+2024-05-26 20:29:08,216 - Params: {'max_depth': 50, 'max_features': 0.9095304762777912, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 210}, RMSE: 0.6756444803479088
+2024-05-26 20:29:08,218 - build_posterior_wrapper took 0.000981 seconds
+2024-05-26 20:29:08,219 - TPE using 79/79 trials with best loss 0.618947
+2024-05-26 20:29:19,380 - Params: {'max_depth': 40, 'max_features': 0.3236800757420711, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 400}, RMSE: 0.6401651541039179
+2024-05-26 20:29:19,382 - build_posterior_wrapper took 0.000938 seconds
+2024-05-26 20:29:19,383 - TPE using 80/80 trials with best loss 0.618947
+2024-05-26 20:29:39,523 - Params: {'max_depth': 38, 'max_features': 0.6116891216200289, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 340}, RMSE: 0.6497927014320035
+2024-05-26 20:29:39,525 - build_posterior_wrapper took 0.000946 seconds
+2024-05-26 20:29:39,526 - TPE using 81/81 trials with best loss 0.618947
+2024-05-26 20:29:46,126 - Params: {'max_depth': 34, 'max_features': 0.2628231844847212, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 300}, RMSE: 0.6514357977504063
+2024-05-26 20:29:46,128 - build_posterior_wrapper took 0.000959 seconds
+2024-05-26 20:29:46,128 - TPE using 82/82 trials with best loss 0.618947
+2024-05-26 20:29:47,420 - Params: {'max_depth': 47, 'max_features': 0.12372876750768408, 'min_samples_leaf': 2, 'min_samples_split': 9, 'n_estimators': 120}, RMSE: 0.6585740199416509
+2024-05-26 20:29:47,422 - build_posterior_wrapper took 0.000973 seconds
+2024-05-26 20:29:47,423 - TPE using 83/83 trials with best loss 0.618947
+2024-05-26 20:29:50,071 - Params: {'max_depth': 41, 'max_features': 0.1735886110803817, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 190}, RMSE: 0.6591792631361237
+2024-05-26 20:29:50,073 - build_posterior_wrapper took 0.000983 seconds
+2024-05-26 20:29:50,073 - TPE using 84/84 trials with best loss 0.618947
+2024-05-26 20:30:01,639 - Params: {'max_depth': 43, 'max_features': 0.7125035693526067, 'min_samples_leaf': 8, 'min_samples_split': 5, 'n_estimators': 250}, RMSE: 0.6947194311419461
+2024-05-26 20:30:01,641 - build_posterior_wrapper took 0.000958 seconds
+2024-05-26 20:30:01,641 - TPE using 85/85 trials with best loss 0.618947
+2024-05-26 20:30:11,753 - Params: {'max_depth': 30, 'max_features': 0.482684946795661, 'min_samples_leaf': 7, 'min_samples_split': 3, 'n_estimators': 310}, RMSE: 0.6818397406921911
+2024-05-26 20:30:11,755 - build_posterior_wrapper took 0.000968 seconds
+2024-05-26 20:30:11,756 - TPE using 86/86 trials with best loss 0.618947
+2024-05-26 20:30:19,490 - Params: {'max_depth': 45, 'max_features': 0.5408023347591516, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 140}, RMSE: 0.6413300047014766
+2024-05-26 20:30:19,492 - build_posterior_wrapper took 0.000979 seconds
+2024-05-26 20:30:19,492 - TPE using 87/87 trials with best loss 0.618947
+2024-05-26 20:30:29,718 - Params: {'max_depth': 48, 'max_features': 0.3683494605064931, 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 380}, RMSE: 0.6641955425830528
+2024-05-26 20:30:29,720 - build_posterior_wrapper took 0.000958 seconds
+2024-05-26 20:30:29,720 - TPE using 88/88 trials with best loss 0.618947
+2024-05-26 20:30:38,693 - Params: {'max_depth': 35, 'max_features': 0.20104618049418999, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 440}, RMSE: 0.6389996103409308
+2024-05-26 20:30:38,695 - build_posterior_wrapper took 0.000933 seconds
+2024-05-26 20:30:38,695 - TPE using 89/89 trials with best loss 0.618947
+2024-05-26 20:30:43,830 - Params: {'max_depth': 37, 'max_features': 0.2891416172904283, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 230}, RMSE: 0.6542700503863023
+2024-05-26 20:30:43,832 - build_posterior_wrapper took 0.000949 seconds
+2024-05-26 20:30:43,833 - TPE using 90/90 trials with best loss 0.618947
+2024-05-26 20:30:48,954 - Params: {'max_depth': 39, 'max_features': 0.2205376557298632, 'min_samples_leaf': 2, 'min_samples_split': 7, 'n_estimators': 270}, RMSE: 0.6430303367932038
+2024-05-26 20:30:48,956 - build_posterior_wrapper took 0.000952 seconds
+2024-05-26 20:30:48,956 - TPE using 91/91 trials with best loss 0.618947
+2024-05-26 20:31:11,361 - Params: {'max_depth': 49, 'max_features': 0.8362714041814845, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 330}, RMSE: 0.6711223968791106
+2024-05-26 20:31:11,363 - build_posterior_wrapper took 0.000954 seconds
+2024-05-26 20:31:11,363 - TPE using 92/92 trials with best loss 0.618947
+2024-05-26 20:31:18,497 - Params: {'max_depth': 32, 'max_features': 0.4073303841200052, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 210}, RMSE: 0.6472713042590162
+2024-05-26 20:31:18,499 - build_posterior_wrapper took 0.000977 seconds
+2024-05-26 20:31:18,499 - TPE using 93/93 trials with best loss 0.618947
+2024-05-26 20:31:34,880 - Params: {'max_depth': 44, 'max_features': 0.6642933726130866, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 280}, RMSE: 0.6546958790905547
+2024-05-26 20:31:34,882 - build_posterior_wrapper took 0.000986 seconds
+2024-05-26 20:31:34,882 - TPE using 94/94 trials with best loss 0.618947
+2024-05-26 20:31:45,938 - Params: {'max_depth': 46, 'max_features': 0.5173647140271912, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 220}, RMSE: 0.6428094212911076
+2024-05-26 20:31:45,941 - build_posterior_wrapper took 0.000986 seconds
+2024-05-26 20:31:45,941 - TPE using 95/95 trials with best loss 0.618947
+2024-05-26 20:31:49,891 - Params: {'max_depth': 42, 'max_features': 0.25155455582287223, 'min_samples_leaf': 4, 'min_samples_split': 8, 'n_estimators': 200}, RMSE: 0.6570318498446359
+2024-05-26 20:31:49,893 - build_posterior_wrapper took 0.000955 seconds
+2024-05-26 20:31:49,893 - TPE using 96/96 trials with best loss 0.618947
+2024-05-26 20:31:54,422 - Params: {'max_depth': 35, 'max_features': 0.1464757976615312, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 360}, RMSE: 0.6476973521542587
+2024-05-26 20:31:54,424 - build_posterior_wrapper took 0.000990 seconds
+2024-05-26 20:31:54,424 - TPE using 97/97 trials with best loss 0.618947
+2024-05-26 20:31:58,062 - Params: {'max_depth': 31, 'max_features': 0.34121222363331366, 'min_samples_leaf': 6, 'min_samples_split': 2, 'n_estimators': 150}, RMSE: 0.6694125369115382
+2024-05-26 20:31:58,064 - build_posterior_wrapper took 0.000965 seconds
+2024-05-26 20:31:58,065 - TPE using 98/98 trials with best loss 0.618947
+2024-05-26 20:32:12,381 - Params: {'max_depth': 29, 'max_features': 0.5517874419423158, 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 290}, RMSE: 0.6533787030768122
+2024-05-26 20:32:12,384 - build_posterior_wrapper took 0.000948 seconds
+2024-05-26 20:32:12,384 - TPE using 99/99 trials with best loss 0.618947
+2024-05-26 20:32:14,066 - Params: {'max_depth': 39, 'max_features': 0.10203375166831838, 'min_samples_leaf': 9, 'min_samples_split': 3, 'n_estimators': 240}, RMSE: 0.6848986394292358
+2024-05-27 09:26:23,998 - build_posterior_wrapper took 0.046085 seconds
+2024-05-27 09:26:23,998 - TPE using 0 trials
+2024-05-27 09:26:26,112 - Params: {'max_depth': 44, 'max_features': 0.39849991512003713, 'min_samples_leaf': 8, 'min_samples_split': 10, 'n_estimators': 70}, RMSE: 0.6803141830372784
+2024-05-27 09:26:26,113 - build_posterior_wrapper took 0.000923 seconds
+2024-05-27 09:26:26,114 - TPE using 1/1 trials with best loss 0.680314
+2024-05-27 09:26:52,227 - Params: {'max_depth': 27, 'max_features': 0.9681944767352709, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 320}, RMSE: 0.6760446268588498
+2024-05-27 09:26:52,229 - build_posterior_wrapper took 0.000900 seconds
+2024-05-27 09:26:52,229 - TPE using 2/2 trials with best loss 0.676045
+2024-05-27 09:27:05,501 - Params: {'max_depth': 29, 'max_features': 0.6263934190227708, 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 250}, RMSE: 0.6793255991790192
+2024-05-27 09:27:05,503 - build_posterior_wrapper took 0.000940 seconds
+2024-05-27 09:27:05,503 - TPE using 3/3 trials with best loss 0.676045
+2024-05-27 09:27:09,433 - Params: {'max_depth': 49, 'max_features': 0.8501058630486005, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 50}, RMSE: 0.669006474954548
+2024-05-27 09:27:09,435 - build_posterior_wrapper took 0.000951 seconds
+2024-05-27 09:27:09,435 - TPE using 4/4 trials with best loss 0.669006
+2024-05-27 09:27:28,743 - Params: {'max_depth': 45, 'max_features': 0.6117875875752546, 'min_samples_leaf': 9, 'min_samples_split': 5, 'n_estimators': 430}, RMSE: 0.6881221429394531
+2024-05-27 09:27:28,744 - build_posterior_wrapper took 0.000912 seconds
+2024-05-27 09:27:28,744 - TPE using 5/5 trials with best loss 0.669006
+2024-05-27 09:27:33,460 - Params: {'max_depth': 11, 'max_features': 0.16890644998263232, 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 300}, RMSE: 0.6409062664972262
+2024-05-27 09:27:33,461 - build_posterior_wrapper took 0.000899 seconds
+2024-05-27 09:27:33,462 - TPE using 6/6 trials with best loss 0.640906
+2024-05-27 09:27:41,100 - Params: {'max_depth': 16, 'max_features': 0.20176269890502735, 'min_samples_leaf': 7, 'min_samples_split': 6, 'n_estimators': 470}, RMSE: 0.6525885636442955
+2024-05-27 09:27:41,102 - build_posterior_wrapper took 0.000894 seconds
+2024-05-27 09:27:41,102 - TPE using 7/7 trials with best loss 0.640906
+2024-05-27 09:27:46,181 - Params: {'max_depth': 21, 'max_features': 0.5693135893083969, 'min_samples_leaf': 1, 'min_samples_split': 7, 'n_estimators': 90}, RMSE: 0.640730831985847
+2024-05-27 09:27:46,183 - build_posterior_wrapper took 0.000919 seconds
+2024-05-27 09:27:46,183 - TPE using 8/8 trials with best loss 0.640731
+2024-05-27 09:27:50,118 - Params: {'max_depth': 33, 'max_features': 0.1383617862535186, 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 320}, RMSE: 0.6485101888277153
+2024-05-27 09:27:50,120 - build_posterior_wrapper took 0.000923 seconds
+2024-05-27 09:27:50,120 - TPE using 9/9 trials with best loss 0.640731
+2024-05-27 09:27:57,258 - Params: {'max_depth': 35, 'max_features': 0.43977873943662793, 'min_samples_leaf': 9, 'min_samples_split': 9, 'n_estimators': 220}, RMSE: 0.6787337229784253
+2024-05-27 09:27:57,259 - build_posterior_wrapper took 0.000915 seconds
+2024-05-27 09:27:57,260 - TPE using 10/10 trials with best loss 0.640731
+2024-05-27 09:27:59,504 - Params: {'max_depth': 8, 'max_features': 0.12283005982291112, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 250}, RMSE: 0.6519480092848942
+2024-05-27 09:27:59,505 - build_posterior_wrapper took 0.000886 seconds
+2024-05-27 09:27:59,505 - TPE using 11/11 trials with best loss 0.640731
+2024-05-27 09:28:20,014 - Params: {'max_depth': 21, 'max_features': 0.9956662399603784, 'min_samples_leaf': 9, 'min_samples_split': 5, 'n_estimators': 280}, RMSE: 0.6897878417491357
+2024-05-27 09:28:20,016 - build_posterior_wrapper took 0.000916 seconds
+2024-05-27 09:28:20,016 - TPE using 12/12 trials with best loss 0.640731
+2024-05-27 09:28:23,692 - Params: {'max_depth': 43, 'max_features': 0.21960618112993047, 'min_samples_leaf': 6, 'min_samples_split': 5, 'n_estimators': 200}, RMSE: 0.6463420206629721
+2024-05-27 09:28:23,693 - build_posterior_wrapper took 0.000905 seconds
+2024-05-27 09:28:23,694 - TPE using 13/13 trials with best loss 0.640731
+2024-05-27 09:28:37,802 - Params: {'max_depth': 39, 'max_features': 0.6491671187261369, 'min_samples_leaf': 3, 'min_samples_split': 6, 'n_estimators': 230}, RMSE: 0.6615984751991715
+2024-05-27 09:28:37,804 - build_posterior_wrapper took 0.000923 seconds
+2024-05-27 09:28:37,804 - TPE using 14/14 trials with best loss 0.640731
+2024-05-27 09:28:41,520 - Params: {'max_depth': 5, 'max_features': 0.16848059406950258, 'min_samples_leaf': 4, 'min_samples_split': 9, 'n_estimators': 410}, RMSE: 0.690073519672975
+2024-05-27 09:28:41,522 - build_posterior_wrapper took 0.000908 seconds
+2024-05-27 09:28:41,522 - TPE using 15/15 trials with best loss 0.640731
+2024-05-27 09:28:49,009 - Params: {'max_depth': 36, 'max_features': 0.2503787162978204, 'min_samples_leaf': 1, 'min_samples_split': 7, 'n_estimators': 290}, RMSE: 0.6268589268570931
+2024-05-27 09:28:49,011 - build_posterior_wrapper took 0.000909 seconds
+2024-05-27 09:28:49,011 - TPE using 16/16 trials with best loss 0.626859
+2024-05-27 09:28:49,967 - Params: {'max_depth': 10, 'max_features': 0.10493724444273643, 'min_samples_leaf': 8, 'min_samples_split': 9, 'n_estimators': 120}, RMSE: 0.6624955071392382
+2024-05-27 09:28:49,969 - build_posterior_wrapper took 0.000885 seconds
+2024-05-27 09:28:49,969 - TPE using 17/17 trials with best loss 0.626859
+2024-05-27 09:29:04,072 - Params: {'max_depth': 12, 'max_features': 0.9147060348200229, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 180}, RMSE: 0.6652998107292947
+2024-05-27 09:29:04,073 - build_posterior_wrapper took 0.000916 seconds
+2024-05-27 09:29:04,074 - TPE using 18/18 trials with best loss 0.626859
+2024-05-27 09:29:12,889 - Params: {'max_depth': 16, 'max_features': 0.41356363080802416, 'min_samples_leaf': 7, 'min_samples_split': 6, 'n_estimators': 270}, RMSE: 0.662747105649449
+2024-05-27 09:29:12,891 - build_posterior_wrapper took 0.000909 seconds
+2024-05-27 09:29:12,891 - TPE using 19/19 trials with best loss 0.626859
+2024-05-27 09:29:34,369 - Params: {'max_depth': 24, 'max_features': 0.7452171445621854, 'min_samples_leaf': 8, 'min_samples_split': 7, 'n_estimators': 380}, RMSE: 0.6782301608365526
+2024-05-27 09:29:34,370 - build_posterior_wrapper took 0.000908 seconds
+2024-05-27 09:29:34,371 - TPE using 20/20 trials with best loss 0.626859
+2024-05-27 09:29:39,088 - Params: {'max_depth': 21, 'max_features': 0.3158252803414183, 'min_samples_leaf': 1, 'min_samples_split': 8, 'n_estimators': 150}, RMSE: 0.6473586050528342
+2024-05-27 09:29:39,090 - build_posterior_wrapper took 0.000921 seconds
+2024-05-27 09:29:39,090 - TPE using 21/21 trials with best loss 0.626859
+2024-05-27 09:29:56,953 - Params: {'max_depth': 32, 'max_features': 0.5094467975551877, 'min_samples_leaf': 2, 'min_samples_split': 7, 'n_estimators': 360}, RMSE: 0.6487403356534348
+2024-05-27 09:29:56,954 - build_posterior_wrapper took 0.000909 seconds
+2024-05-27 09:29:56,954 - TPE using 22/22 trials with best loss 0.626859
+2024-05-27 09:29:59,895 - Params: {'max_depth': 37, 'max_features': 0.2974338335796493, 'min_samples_leaf': 2, 'min_samples_split': 7, 'n_estimators': 100}, RMSE: 0.6485527545623587
+2024-05-27 09:29:59,897 - build_posterior_wrapper took 0.000905 seconds
+2024-05-27 09:29:59,897 - TPE using 23/23 trials with best loss 0.626859
+2024-05-27 09:30:35,211 - Params: {'max_depth': 26, 'max_features': 0.7566316494259642, 'min_samples_leaf': 2, 'min_samples_split': 8, 'n_estimators': 490}, RMSE: 0.6635173273637532
+2024-05-27 09:30:35,213 - build_posterior_wrapper took 0.000913 seconds
+2024-05-27 09:30:35,213 - TPE using 24/24 trials with best loss 0.626859
+2024-05-27 09:30:43,376 - Params: {'max_depth': 17, 'max_features': 0.5341533602543651, 'min_samples_leaf': 1, 'min_samples_split': 8, 'n_estimators': 160}, RMSE: 0.6514093484009355
+2024-05-27 09:30:43,378 - build_posterior_wrapper took 0.000924 seconds
+2024-05-27 09:30:43,378 - TPE using 25/25 trials with best loss 0.626859
+2024-05-27 09:30:55,043 - Params: {'max_depth': 40, 'max_features': 0.31039242047239274, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 360}, RMSE: 0.6333715171109339
+2024-05-27 09:30:55,045 - build_posterior_wrapper took 0.000917 seconds
+2024-05-27 09:30:55,045 - TPE using 26/26 trials with best loss 0.626859
+2024-05-27 09:31:06,978 - Params: {'max_depth': 48, 'max_features': 0.3089600758933642, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 370}, RMSE: 0.6367442616694335
+2024-05-27 09:31:06,980 - build_posterior_wrapper took 0.000933 seconds
+2024-05-27 09:31:06,980 - TPE using 27/27 trials with best loss 0.626859
+2024-05-27 09:31:14,789 - Params: {'max_depth': 40, 'max_features': 0.25165292928080035, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 340}, RMSE: 0.6411293645482832
+2024-05-27 09:31:14,790 - build_posterior_wrapper took 0.000912 seconds
+2024-05-27 09:31:14,790 - TPE using 28/28 trials with best loss 0.626859
+2024-05-27 09:31:30,512 - Params: {'max_depth': 44, 'max_features': 0.374139814163734, 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 440}, RMSE: 0.6458671538645218
+2024-05-27 09:31:30,514 - build_posterior_wrapper took 0.000901 seconds
+2024-05-27 09:31:30,514 - TPE using 29/29 trials with best loss 0.626859
+2024-05-27 09:31:50,379 - Params: {'max_depth': 31, 'max_features': 0.4723440904421793, 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 410}, RMSE: 0.6464278270128831
+2024-05-27 09:31:50,381 - build_posterior_wrapper took 0.000916 seconds
+2024-05-27 09:31:50,381 - TPE using 30/30 trials with best loss 0.626859
+2024-05-27 09:32:00,591 - Params: {'max_depth': 42, 'max_features': 0.38771654046388504, 'min_samples_leaf': 6, 'min_samples_split': 10, 'n_estimators': 320}, RMSE: 0.6591405148362685
+2024-05-27 09:32:00,593 - build_posterior_wrapper took 0.000912 seconds
+2024-05-27 09:32:00,593 - TPE using 31/31 trials with best loss 0.626859
+2024-05-27 09:32:12,070 - Params: {'max_depth': 46, 'max_features': 0.34752469756972687, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 290}, RMSE: 0.633099361860955
+2024-05-27 09:32:12,071 - build_posterior_wrapper took 0.000924 seconds
+2024-05-27 09:32:12,072 - TPE using 32/32 trials with best loss 0.626859
+2024-05-27 09:32:20,564 - Params: {'max_depth': 47, 'max_features': 0.2530026451581861, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 290}, RMSE: 0.626013393037574
+2024-05-27 09:32:20,566 - build_posterior_wrapper took 0.000917 seconds
+2024-05-27 09:32:20,566 - TPE using 33/33 trials with best loss 0.626013
+2024-05-27 09:32:25,170 - Params: {'max_depth': 49, 'max_features': 0.25190373075319306, 'min_samples_leaf': 10, 'min_samples_split': 6, 'n_estimators': 250}, RMSE: 0.6713570955487662
+2024-05-27 09:32:25,172 - build_posterior_wrapper took 0.000937 seconds
+2024-05-27 09:32:25,172 - TPE using 34/34 trials with best loss 0.626013
+2024-05-27 09:32:38,121 - Params: {'max_depth': 29, 'max_features': 0.7009744089815431, 'min_samples_leaf': 3, 'min_samples_split': 8, 'n_estimators': 200}, RMSE: 0.6591963555261143
+2024-05-27 09:32:38,122 - build_posterior_wrapper took 0.000916 seconds
+2024-05-27 09:32:38,123 - TPE using 35/35 trials with best loss 0.626013
+2024-05-27 09:32:51,262 - Params: {'max_depth': 36, 'max_features': 0.47354143541896965, 'min_samples_leaf': 4, 'min_samples_split': 5, 'n_estimators': 310}, RMSE: 0.6439765232695153
+2024-05-27 09:32:51,264 - build_posterior_wrapper took 0.000932 seconds
+2024-05-27 09:32:51,264 - TPE using 36/36 trials with best loss 0.626013
+2024-05-27 09:32:57,969 - Params: {'max_depth': 47, 'max_features': 0.22611390431623613, 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 340}, RMSE: 0.6405620319344999
+2024-05-27 09:32:57,971 - build_posterior_wrapper took 0.000910 seconds
+2024-05-27 09:32:57,971 - TPE using 37/37 trials with best loss 0.626013
+2024-05-27 09:33:21,030 - Params: {'max_depth': 50, 'max_features': 0.5768829165321997, 'min_samples_leaf': 1, 'min_samples_split': 7, 'n_estimators': 400}, RMSE: 0.6424002213907002
+2024-05-27 09:33:21,031 - build_posterior_wrapper took 0.000932 seconds
+2024-05-27 09:33:21,032 - TPE using 38/38 trials with best loss 0.626013
+2024-05-27 09:33:24,178 - Params: {'max_depth': 35, 'max_features': 0.16751819717509986, 'min_samples_leaf': 7, 'min_samples_split': 3, 'n_estimators': 230}, RMSE: 0.6515405707896038
+2024-05-27 09:33:24,180 - build_posterior_wrapper took 0.000928 seconds
+2024-05-27 09:33:24,180 - TPE using 39/39 trials with best loss 0.626013
+2024-05-27 09:33:29,572 - Params: {'max_depth': 38, 'max_features': 0.10363159748167192, 'min_samples_leaf': 1, 'min_samples_split': 6, 'n_estimators': 470}, RMSE: 0.6264536972889446
+2024-05-27 09:33:29,574 - build_posterior_wrapper took 0.000911 seconds
+2024-05-27 09:33:29,574 - TPE using 40/40 trials with best loss 0.626013
+2024-05-27 09:33:30,284 - Params: {'max_depth': 42, 'max_features': 0.14021061048321562, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 50}, RMSE: 0.6329270831018518
+2024-05-27 09:33:30,286 - build_posterior_wrapper took 0.000900 seconds
+2024-05-27 09:33:30,286 - TPE using 41/41 trials with best loss 0.626013
+2024-05-27 09:33:59,777 - Params: {'max_depth': 38, 'max_features': 0.8358154544042855, 'min_samples_leaf': 10, 'min_samples_split': 5, 'n_estimators': 490}, RMSE: 0.6947372770332839
+2024-05-27 09:33:59,779 - build_posterior_wrapper took 0.000907 seconds
+2024-05-27 09:33:59,779 - TPE using 42/42 trials with best loss 0.626013
+2024-05-27 09:34:07,705 - Params: {'max_depth': 33, 'max_features': 0.19659429027727499, 'min_samples_leaf': 5, 'min_samples_split': 6, 'n_estimators': 460}, RMSE: 0.635490935022285
+2024-05-27 09:34:07,707 - build_posterior_wrapper took 0.000927 seconds
+2024-05-27 09:34:07,707 - TPE using 43/43 trials with best loss 0.626013
+2024-05-27 09:34:08,942 - Params: {'max_depth': 45, 'max_features': 0.10834958912293365, 'min_samples_leaf': 6, 'min_samples_split': 5, 'n_estimators': 130}, RMSE: 0.6444181743644817
+2024-05-27 09:34:08,943 - build_posterior_wrapper took 0.000912 seconds
+2024-05-27 09:34:08,944 - TPE using 44/44 trials with best loss 0.626013
+2024-05-27 09:34:13,327 - Params: {'max_depth': 30, 'max_features': 0.10232344190048831, 'min_samples_leaf': 4, 'min_samples_split': 5, 'n_estimators': 450}, RMSE: 0.6340896380957588
+2024-05-27 09:34:13,328 - build_posterior_wrapper took 0.000907 seconds
+2024-05-27 09:34:13,329 - TPE using 45/45 trials with best loss 0.626013
+2024-05-27 09:34:35,983 - Params: {'max_depth': 41, 'max_features': 0.43969922394358263, 'min_samples_leaf': 1, 'min_samples_split': 6, 'n_estimators': 500}, RMSE: 0.6375385378634865
+2024-05-27 09:34:35,985 - build_posterior_wrapper took 0.000911 seconds
+2024-05-27 09:34:35,985 - TPE using 46/46 trials with best loss 0.626013
+2024-05-27 09:34:41,104 - Params: {'max_depth': 25, 'max_features': 0.6197389487217566, 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 80}, RMSE: 0.6703719725200159
+2024-05-27 09:34:41,106 - build_posterior_wrapper took 0.000929 seconds
+2024-05-27 09:34:41,106 - TPE using 47/47 trials with best loss 0.626013
+2024-05-27 09:34:51,581 - Params: {'max_depth': 34, 'max_features': 0.2790507254718748, 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 390}, RMSE: 0.6441314389929917
+2024-05-27 09:34:51,583 - build_posterior_wrapper took 0.000915 seconds
+2024-05-27 09:34:51,583 - TPE using 48/48 trials with best loss 0.626013
+2024-05-27 09:34:58,974 - Params: {'max_depth': 28, 'max_features': 0.17093993801794793, 'min_samples_leaf': 4, 'min_samples_split': 9, 'n_estimators': 470}, RMSE: 0.6373311548759186
+2024-05-27 09:34:58,976 - build_posterior_wrapper took 0.000911 seconds
+2024-05-27 09:34:58,976 - TPE using 49/49 trials with best loss 0.626013
+2024-05-27 09:35:10,387 - Params: {'max_depth': 44, 'max_features': 0.3561910824592587, 'min_samples_leaf': 9, 'min_samples_split': 2, 'n_estimators': 430}, RMSE: 0.6705637315855346
+2024-05-27 09:35:10,389 - build_posterior_wrapper took 0.000931 seconds
+2024-05-27 09:35:10,389 - TPE using 50/50 trials with best loss 0.626013
+2024-05-27 09:35:28,095 - Params: {'max_depth': 23, 'max_features': 0.6682431472331706, 'min_samples_leaf': 1, 'min_samples_split': 6, 'n_estimators': 260}, RMSE: 0.6455923625340342
+2024-05-27 09:35:28,096 - build_posterior_wrapper took 0.000932 seconds
+2024-05-27 09:35:28,097 - TPE using 51/51 trials with best loss 0.626013
+2024-05-27 09:35:29,023 - Params: {'max_depth': 47, 'max_features': 0.2090482752774882, 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 50}, RMSE: 0.6464455308094038
+2024-05-27 09:35:29,025 - build_posterior_wrapper took 0.000900 seconds
+2024-05-27 09:35:29,025 - TPE using 52/52 trials with best loss 0.626013
+2024-05-27 09:35:42,850 - Params: {'max_depth': 50, 'max_features': 0.42233547498583013, 'min_samples_leaf': 2, 'min_samples_split': 8, 'n_estimators': 340}, RMSE: 0.6455192799862751
+2024-05-27 09:35:42,851 - build_posterior_wrapper took 0.000921 seconds
+2024-05-27 09:35:42,852 - TPE using 53/53 trials with best loss 0.626013
+2024-05-27 09:35:45,161 - Params: {'max_depth': 38, 'max_features': 0.1404782734893128, 'min_samples_leaf': 7, 'min_samples_split': 10, 'n_estimators': 200}, RMSE: 0.6480204942557491
+2024-05-27 09:35:45,163 - build_posterior_wrapper took 0.000906 seconds
+2024-05-27 09:35:45,163 - TPE using 54/54 trials with best loss 0.626013
+2024-05-27 09:36:23,550 - Params: {'max_depth': 43, 'max_features': 0.9563742168652167, 'min_samples_leaf': 3, 'min_samples_split': 7, 'n_estimators': 430}, RMSE: 0.6608597539483465
+2024-05-27 09:36:23,552 - build_posterior_wrapper took 0.000919 seconds
+2024-05-27 09:36:23,552 - TPE using 55/55 trials with best loss 0.626013
+2024-05-27 09:36:33,087 - Params: {'max_depth': 18, 'max_features': 0.5866098518109815, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 160}, RMSE: 0.6421226333739202
+2024-05-27 09:36:33,088 - build_posterior_wrapper took 0.000937 seconds
+2024-05-27 09:36:33,089 - TPE using 56/56 trials with best loss 0.626013
+2024-05-27 09:36:39,331 - Params: {'max_depth': 39, 'max_features': 0.34259821742638563, 'min_samples_leaf': 6, 'min_samples_split': 9, 'n_estimators': 220}, RMSE: 0.6627993822832939
+2024-05-27 09:36:39,333 - build_posterior_wrapper took 0.000921 seconds
+2024-05-27 09:36:39,333 - TPE using 57/57 trials with best loss 0.626013
+2024-05-27 09:36:44,894 - Params: {'max_depth': 27, 'max_features': 0.5046632890936071, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 110}, RMSE: 0.6404121171963402
+2024-05-27 09:36:44,896 - build_posterior_wrapper took 0.000944 seconds
+2024-05-27 09:36:44,896 - TPE using 58/58 trials with best loss 0.626013
+2024-05-27 09:36:57,657 - Params: {'max_depth': 48, 'max_features': 0.8002318646186497, 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 180}, RMSE: 0.6748389617418606
+2024-05-27 09:36:57,659 - build_posterior_wrapper took 0.000924 seconds
+2024-05-27 09:36:57,659 - TPE using 59/59 trials with best loss 0.626013
+2024-05-27 09:37:37,481 - Params: {'max_depth': 32, 'max_features': 0.8952907734097497, 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 470}, RMSE: 0.6595191949352284
+2024-05-27 09:37:37,483 - build_posterior_wrapper took 0.000924 seconds
+2024-05-27 09:37:37,484 - TPE using 60/60 trials with best loss 0.626013
+2024-05-27 09:37:44,696 - Params: {'max_depth': 13, 'max_features': 0.2770535682547957, 'min_samples_leaf': 1, 'min_samples_split': 7, 'n_estimators': 280}, RMSE: 0.6387146196335354
+2024-05-27 09:37:44,698 - build_posterior_wrapper took 0.000919 seconds
+2024-05-27 09:37:44,698 - TPE using 61/61 trials with best loss 0.626013
+2024-05-27 09:37:57,093 - Params: {'max_depth': 45, 'max_features': 0.5420692396015058, 'min_samples_leaf': 8, 'min_samples_split': 8, 'n_estimators': 300}, RMSE: 0.6678741882091204
+2024-05-27 09:37:57,095 - build_posterior_wrapper took 0.000923 seconds
+2024-05-27 09:37:57,095 - TPE using 62/62 trials with best loss 0.626013
+2024-05-27 09:38:01,962 - Params: {'max_depth': 6, 'max_features': 0.18581410915506597, 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 420}, RMSE: 0.6761499531083351
+2024-05-27 09:38:01,964 - build_posterior_wrapper took 0.000929 seconds
+2024-05-27 09:38:01,964 - TPE using 63/63 trials with best loss 0.626013
+2024-05-27 09:38:09,697 - Params: {'max_depth': 36, 'max_features': 0.23107285284557966, 'min_samples_leaf': 3, 'min_samples_split': 7, 'n_estimators': 350}, RMSE: 0.6318933075956111
+2024-05-27 09:38:09,699 - build_posterior_wrapper took 0.000916 seconds
+2024-05-27 09:38:09,699 - TPE using 64/64 trials with best loss 0.626013
+2024-05-27 09:38:16,043 - Params: {'max_depth': 41, 'max_features': 0.12903025230681886, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 380}, RMSE: 0.6149524317402117
+2024-05-27 09:38:16,045 - build_posterior_wrapper took 0.000915 seconds
+2024-05-27 09:38:16,045 - TPE using 65/65 trials with best loss 0.614952
+2024-05-27 09:38:22,782 - Params: {'max_depth': 40, 'max_features': 0.134022082249461, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 390}, RMSE: 0.6127149453509835
+2024-05-27 09:38:22,784 - build_posterior_wrapper took 0.000927 seconds
+2024-05-27 09:38:22,784 - TPE using 66/66 trials with best loss 0.612715
+2024-05-27 09:38:30,321 - Params: {'max_depth': 41, 'max_features': 0.15625796048452906, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 380}, RMSE: 0.6092409709950481
+2024-05-27 09:38:30,323 - build_posterior_wrapper took 0.000916 seconds
+2024-05-27 09:38:30,323 - TPE using 67/67 trials with best loss 0.609241
+2024-05-27 09:38:36,476 - Params: {'max_depth': 41, 'max_features': 0.14962306308448198, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 380}, RMSE: 0.6326689821367313
+2024-05-27 09:38:36,477 - build_posterior_wrapper took 0.000923 seconds
+2024-05-27 09:38:36,478 - TPE using 68/68 trials with best loss 0.609241
+2024-05-27 09:38:42,053 - Params: {'max_depth': 34, 'max_features': 0.12538192335983908, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 410}, RMSE: 0.6312184565847995
+2024-05-27 09:38:42,055 - build_posterior_wrapper took 0.000920 seconds
+2024-05-27 09:38:42,055 - TPE using 69/69 trials with best loss 0.609241
+2024-05-27 09:38:54,779 - Params: {'max_depth': 40, 'max_features': 0.28216391718406153, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 370}, RMSE: 0.6248466676452824
+2024-05-27 09:38:54,781 - build_posterior_wrapper took 0.001105 seconds
+2024-05-27 09:38:54,782 - TPE using 70/70 trials with best loss 0.609241
+2024-05-27 09:39:08,157 - Params: {'max_depth': 43, 'max_features': 0.32905202521400945, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 390}, RMSE: 0.6365645772829027
+2024-05-27 09:39:08,159 - build_posterior_wrapper took 0.000941 seconds
+2024-05-27 09:39:08,159 - TPE using 71/71 trials with best loss 0.609241
+2024-05-27 09:39:28,088 - Params: {'max_depth': 29, 'max_features': 0.3912239886378589, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 450}, RMSE: 0.6385653511952518
+2024-05-27 09:39:28,091 - build_posterior_wrapper took 0.000975 seconds
+2024-05-27 09:39:28,091 - TPE using 72/72 trials with best loss 0.609241
+2024-05-27 09:39:34,333 - Params: {'max_depth': 37, 'max_features': 0.1589313688771696, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 330}, RMSE: 0.6174169813449333
+2024-05-27 09:39:34,335 - build_posterior_wrapper took 0.000962 seconds
+2024-05-27 09:39:34,335 - TPE using 73/73 trials with best loss 0.609241
+2024-05-27 09:39:42,162 - Params: {'max_depth': 49, 'max_features': 0.2223797254253158, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 360}, RMSE: 0.6424808065721985
+2024-05-27 09:39:42,164 - build_posterior_wrapper took 0.000944 seconds
+2024-05-27 09:39:42,165 - TPE using 74/74 trials with best loss 0.609241
+2024-05-27 09:39:48,534 - Params: {'max_depth': 46, 'max_features': 0.18066615053986745, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 330}, RMSE: 0.6302016805477525
+2024-05-27 09:39:48,536 - build_posterior_wrapper took 0.000952 seconds
+2024-05-27 09:39:48,536 - TPE using 75/75 trials with best loss 0.609241
+2024-05-27 09:40:13,092 - Params: {'max_depth': 22, 'max_features': 0.4795359493877083, 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 500}, RMSE: 0.6383046682057741
+2024-05-27 09:40:13,094 - build_posterior_wrapper took 0.000929 seconds
+2024-05-27 09:40:13,094 - TPE using 76/76 trials with best loss 0.609241
+2024-05-27 09:40:16,825 - Params: {'max_depth': 32, 'max_features': 0.10043916869830542, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 390}, RMSE: 0.6361762602364208
+2024-05-27 09:40:16,827 - build_posterior_wrapper took 0.000939 seconds
+2024-05-27 09:40:16,828 - TPE using 77/77 trials with best loss 0.609241
+2024-05-27 09:40:24,644 - Params: {'max_depth': 19, 'max_features': 0.24717328681860534, 'min_samples_leaf': 9, 'min_samples_split': 4, 'n_estimators': 420}, RMSE: 0.6650784133510228
+2024-05-27 09:40:24,646 - build_posterior_wrapper took 0.000946 seconds
+2024-05-27 09:40:24,646 - TPE using 78/78 trials with best loss 0.609241
+2024-05-27 09:40:29,224 - Params: {'max_depth': 42, 'max_features': 0.12178205132524647, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 310}, RMSE: 0.6097594829143562
+2024-05-27 09:40:29,226 - build_posterior_wrapper took 0.000959 seconds
+2024-05-27 09:40:29,226 - TPE using 79/79 trials with best loss 0.609241
+2024-05-27 09:40:36,154 - Params: {'max_depth': 35, 'max_features': 0.19639277625660906, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 300}, RMSE: 0.6236472551650013
+2024-05-27 09:40:36,156 - build_posterior_wrapper took 0.000950 seconds
+2024-05-27 09:40:36,156 - TPE using 80/80 trials with best loss 0.609241
+2024-05-27 09:40:44,239 - Params: {'max_depth': 39, 'max_features': 0.36115774967062597, 'min_samples_leaf': 5, 'min_samples_split': 4, 'n_estimators': 260}, RMSE: 0.6576543607844149
+2024-05-27 09:40:44,241 - build_posterior_wrapper took 0.000944 seconds
+2024-05-27 09:40:44,241 - TPE using 81/81 trials with best loss 0.609241
+2024-05-27 09:40:53,168 - Params: {'max_depth': 44, 'max_features': 0.2982782089980651, 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 310}, RMSE: 0.6429437037549134
+2024-05-27 09:40:53,170 - build_posterior_wrapper took 0.000946 seconds
+2024-05-27 09:40:53,171 - TPE using 82/82 trials with best loss 0.609241
+2024-05-27 09:41:01,519 - Params: {'max_depth': 42, 'max_features': 0.4056203614397076, 'min_samples_leaf': 4, 'min_samples_split': 3, 'n_estimators': 230}, RMSE: 0.6573550255781707
+2024-05-27 09:41:01,521 - build_posterior_wrapper took 0.000946 seconds
+2024-05-27 09:41:01,521 - TPE using 83/83 trials with best loss 0.609241
+2024-05-27 09:41:13,962 - Params: {'max_depth': 37, 'max_features': 0.4460762937300617, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 270}, RMSE: 0.632283121791374
+2024-05-27 09:41:13,964 - build_posterior_wrapper took 0.000936 seconds
+2024-05-27 09:41:13,965 - TPE using 84/84 trials with best loss 0.609241
+2024-05-27 09:41:38,424 - Params: {'max_depth': 31, 'max_features': 0.7380966338684583, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 350}, RMSE: 0.6545334172631323
+2024-05-27 09:41:38,426 - build_posterior_wrapper took 0.000933 seconds
+2024-05-27 09:41:38,427 - TPE using 85/85 trials with best loss 0.609241
+2024-05-27 09:41:40,772 - Params: {'max_depth': 48, 'max_features': 0.12140286254254887, 'min_samples_leaf': 8, 'min_samples_split': 4, 'n_estimators': 240}, RMSE: 0.6514925799308717
+2024-05-27 09:41:40,773 - build_posterior_wrapper took 0.000924 seconds
+2024-05-27 09:41:40,774 - TPE using 86/86 trials with best loss 0.609241
+2024-05-27 09:41:47,117 - Params: {'max_depth': 46, 'max_features': 0.23679518561508725, 'min_samples_leaf': 6, 'min_samples_split': 3, 'n_estimators': 320}, RMSE: 0.6441626192125794
+2024-05-27 09:41:47,119 - build_posterior_wrapper took 0.000950 seconds
+2024-05-27 09:41:47,119 - TPE using 87/87 trials with best loss 0.609241
+2024-05-27 09:41:59,437 - Params: {'max_depth': 34, 'max_features': 0.27678018713193375, 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 400}, RMSE: 0.6350719765208149
+2024-05-27 09:41:59,439 - build_posterior_wrapper took 0.000939 seconds
+2024-05-27 09:41:59,439 - TPE using 88/88 trials with best loss 0.609241
+2024-05-27 09:42:06,618 - Params: {'max_depth': 25, 'max_features': 0.3204297307074282, 'min_samples_leaf': 7, 'min_samples_split': 2, 'n_estimators': 280}, RMSE: 0.6530669912255969
+2024-05-27 09:42:06,620 - build_posterior_wrapper took 0.000977 seconds
+2024-05-27 09:42:06,620 - TPE using 89/89 trials with best loss 0.609241
+2024-05-27 09:42:13,432 - Params: {'max_depth': 39, 'max_features': 0.21079798040254277, 'min_samples_leaf': 10, 'min_samples_split': 3, 'n_estimators': 440}, RMSE: 0.6671499689037942
+2024-05-27 09:42:13,434 - build_posterior_wrapper took 0.000952 seconds
+2024-05-27 09:42:13,434 - TPE using 90/90 trials with best loss 0.609241
+2024-05-27 09:42:26,517 - Params: {'max_depth': 27, 'max_features': 0.2597502044434461, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 480}, RMSE: 0.6424310893253743
+2024-05-27 09:42:26,519 - build_posterior_wrapper took 0.000941 seconds
+2024-05-27 09:42:26,520 - TPE using 91/91 trials with best loss 0.609241
+2024-05-27 09:43:04,687 - Params: {'max_depth': 30, 'max_features': 0.9970532566895032, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 370}, RMSE: 0.6497952907108514
+2024-05-27 09:43:04,689 - build_posterior_wrapper took 0.000932 seconds
+2024-05-27 09:43:04,689 - TPE using 92/92 trials with best loss 0.609241
+2024-05-27 09:43:20,736 - Params: {'max_depth': 49, 'max_features': 0.5117205798494007, 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 330}, RMSE: 0.6451046553095884
+2024-05-27 09:43:20,738 - build_posterior_wrapper took 0.000930 seconds
+2024-05-27 09:43:20,738 - TPE using 93/93 trials with best loss 0.609241
+2024-05-27 09:43:32,632 - Params: {'max_depth': 43, 'max_features': 0.3767676867085148, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 350}, RMSE: 0.6460147665133606
+2024-05-27 09:43:32,634 - build_posterior_wrapper took 0.000949 seconds
+2024-05-27 09:43:32,634 - TPE using 94/94 trials with best loss 0.609241
+2024-05-27 09:43:37,959 - Params: {'max_depth': 36, 'max_features': 0.14934407917376952, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 300}, RMSE: 0.6261930754157393
+2024-05-27 09:43:37,961 - build_posterior_wrapper took 0.000966 seconds
+2024-05-27 09:43:37,961 - TPE using 95/95 trials with best loss 0.609241
+2024-05-27 09:43:40,596 - Params: {'max_depth': 33, 'max_features': 0.11479518214937917, 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 210}, RMSE: 0.6201056416130531
+2024-05-27 09:43:40,597 - build_posterior_wrapper took 0.000941 seconds
+2024-05-27 09:43:40,598 - TPE using 96/96 trials with best loss 0.609241
+2024-05-27 09:44:00,821 - Params: {'max_depth': 40, 'max_features': 0.6053023004949881, 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 310}, RMSE: 0.646885948725829
+2024-05-27 09:44:00,823 - build_posterior_wrapper took 0.000978 seconds
+2024-05-27 09:44:00,823 - TPE using 97/97 trials with best loss 0.609241
+2024-05-27 09:44:07,302 - Params: {'max_depth': 42, 'max_features': 0.18382442684036548, 'min_samples_leaf': 8, 'min_samples_split': 2, 'n_estimators': 450}, RMSE: 0.6579288837678167
+2024-05-27 09:44:07,304 - build_posterior_wrapper took 0.000963 seconds
+2024-05-27 09:44:07,304 - TPE using 98/98 trials with best loss 0.609241
+2024-05-27 09:44:29,187 - Params: {'max_depth': 47, 'max_features': 0.6457728488456198, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 400}, RMSE: 0.662250638345854
+2024-05-27 09:44:29,189 - build_posterior_wrapper took 0.000954 seconds
+2024-05-27 09:44:29,189 - TPE using 99/99 trials with best loss 0.609241
+2024-05-27 09:44:35,493 - Params: {'max_depth': 14, 'max_features': 0.3389271108935822, 'min_samples_leaf': 9, 'min_samples_split': 3, 'n_estimators': 250}, RMSE: 0.6659303099423738
